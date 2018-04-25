@@ -1,0 +1,5 @@
+Package: scq-insync
+Version: 1.0
+Maintainer: Rafael Rodriguez <rrodriguezg@santiagodecompostela.gal>
+Architecture: all
+Description: Configura repositorio remoto para poder instalar la utilidad insync
